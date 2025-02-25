@@ -9,4 +9,4 @@ Here, the width is given in nanometers whereas the length is given in micrometer
 The metal/via data is not dynamically read from a configuration file but compiled into the binary.
 The idea is that for every different technology node a suitable design environment is present anyway, where then the correct mres binary is selected.
 This keeps things very simple.
-An example of technology data for some dummy technology is given and easy to adapt to 
+An example of technology data for some dummy technology is given, which is quite easy to adapt to real nodes.
