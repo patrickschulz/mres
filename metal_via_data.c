@@ -1,4 +1,4 @@
-// this is just an example
+/* this is just an example */
 
 struct metal metals[] = {
     { .name = "M1", .width = 100.0, .resistance = 7.000 },
