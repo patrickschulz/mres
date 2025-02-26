@@ -11,4 +11,4 @@ The idea is that for every different technology node a suitable design environme
 This keeps things very simple.
 An example of technology data for some dummy technology is given, which is quite easy to adapt to real nodes.
 
-The program is written in ANSI C without any dependencies, so that it also compiles on your favorite design server running on an old linux with an ancient compiler.
+The program is written in ANSI C without any dependencies, so that it also compiles on your favorite design server running an old linux with an ancient compiler.
